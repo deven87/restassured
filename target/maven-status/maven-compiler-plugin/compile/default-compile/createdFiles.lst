@@ -1,0 +1,11 @@
+gorest/pomEndpoints/Routes.class
+gorest/pomEndpoints/UserEndPoints.class
+gorest/reports/ExtentReport.class
+gorest/utilities/ReadConfig.class
+gorest/listeners/Listeners.class
+gorest/utilities/ExcelUtility.class
+gorest/utilities/ExcelUtility2.class
+gorest/payloads/UserPayload2.class
+gorest/dataproviders/UserDP.class
+gorest/payloads/UserPayload.class
+gorest/logger/Log.class

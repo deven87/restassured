@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pet Store API Suite" group-by-instances="true">
+	
+	<listeners>
+		<listener class-name="gorest.listeners.Listeners"></listener>
+	</listeners>
+  <test thread-count="5" name="Pet Store API Suite">
+	  
+	  
+	  <classes>
+		
+		  		  <class name="gorest.test.UserModuleTest"></class>
+		  		    <class name="gorest.test.DDUserModuleTest"></class>
+
+	  </classes>
+	  
+	  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

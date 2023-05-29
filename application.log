@@ -1,0 +1,11 @@
+2023-05-29 17:52:59.041 [main] INFO  gorest.logger.Log - inside beforeSuite
+2023-05-29 17:52:59.148 [main] INFO  gorest.logger.Log - from listeners onStart Pet Store API Suite
+2023-05-29 17:52:59.157 [main] INFO  gorest.logger.Log - inside beforeClass
+2023-05-29 17:52:59.271 [main] INFO  gorest.logger.Log - myTestUserModule
+2023-05-29 17:52:59.276 [main] INFO  gorest.logger.Log - from listeners success myTestUserModule
+2023-05-29 17:52:59.277 [main] INFO  gorest.logger.Log - myTestUserModule1
+2023-05-29 17:52:59.282 [main] INFO  gorest.logger.Log - from listeners  onTestFailure myTestUserModule1
+2023-05-29 17:52:59.288 [main] INFO  gorest.logger.Log - inside beforeClass
+2023-05-29 17:52:59.312 [main] INFO  gorest.logger.Log - myTestDDUserModule
+2023-05-29 17:52:59.312 [main] INFO  gorest.logger.Log - from listeners success myTestDDUserModule
+2023-05-29 17:52:59.313 [main] INFO  gorest.logger.Log - from listeners onFinish Pet Store API Suite
